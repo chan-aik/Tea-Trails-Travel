@@ -1,7 +1,4 @@
-# Tea-Trails-Travel
-My Travel Portfolio
-
-# 🌍 Travel Agent/Assistant Portfolio
+# 🌍 Tea & Trails Travel Portfolio
 
 ## **🚀 About Me**
 Welcome to my travel portfolio! I am a passionate and detail-oriented travel consultant dedicated to crafting unforgettable experiences for clients. From luxury getaways to budget-friendly adventures, I specialize in seamless trip planning, exclusive deals, and expert travel guidance.
@@ -33,13 +30,13 @@ Welcome to my travel portfolio! I am a passionate and detail-oriented travel con
 
 ## **🗺️ Featured Travel Packages & Itineraries**
 ### ✈️ 7-Day European Adventure
-- **Destinations:** Paris, Rome, Barcelona  
-- **Inclusions:** Flights, 4-star hotels, guided tours, travel insurance  
+- **Destinations:** London, Paris, Brussels 
+- **Inclusions:** Flights, 4-star aparthotels, guided tours, travel insurance  
 - **Customization Available:** ✅ Yes  
 
-### 🏝️ Luxury Maldives Honeymoon
-- **Destinations:** Maldives  
-- **Inclusions:** Overwater villa, private excursions, all-inclusive dining  
+### ✈️ 7-Day European Adventure
+- **Destinations:** Greece, İstanbul
+- **Inclusions:** Flights, 4-star aparthotels, guided tours, travel insurance  
 - **Customization Available:** ✅ Yes  
 
 ## **💬 Client Testimonials**
@@ -63,11 +60,3 @@ Welcome to my travel portfolio! I am a passionate and detail-oriented travel con
 📆 **Schedule a Consultation:** [booking link]  
 
 ---
-
-### **📌 How to Use This Repository**
-- Clone the repository: `git clone https://github.com/yourusername/travel-portfolio.git`
-- Modify the README.md file with your details
-- Upload sample itineraries or client testimonials
-- Use GitHub Pages to showcase your portfolio as a webpage
-
-Let me know if you'd like a more detailed GitHub project setup with a website layout! 🚀
