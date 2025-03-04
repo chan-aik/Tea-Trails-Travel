@@ -1,6 +1,6 @@
 # 🌍 Tea & Trails Travel Portfolio
 
-## **🚀 About Me**
+## **✈️ About Me**
 Welcome to my travel portfolio! I am a passionate and detail-oriented travel consultant dedicated to crafting unforgettable experiences for clients. From luxury getaways to budget-friendly adventures, I specialize in seamless trip planning, exclusive deals, and expert travel guidance.
 
 ## **💼 Services Offered**
@@ -10,7 +10,6 @@ Welcome to my travel portfolio! I am a passionate and detail-oriented travel con
 ✅ Group Travel Coordination  
 ✅ Luxury & Adventure Travel  
 ✅ Travel Insurance Assistance  
-✅ Visa & Documentation Support  
 ✅ Corporate & Business Travel  
 ✅ Honeymoon & Destination Weddings  
 ✅ Concierge & VIP Travel Services  
