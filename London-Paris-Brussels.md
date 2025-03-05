@@ -8,8 +8,8 @@
 
 ## **📌 Day 1: Arrival in London & Exploration**  
 🛬 **Arrival:** Flight Details - Virgin Airlines, VS 92, 7:00 AM on April 23rd  
-🚖 **Airport Transfer:** Train from airport to Covent Garden; other options include taxi or rideshare  
-🏨 **Check-In:** Wilde Aparthotels London Covent Garden, 11 ADAM STREET Covent Garden, Westminster Borough, London, WC2R 0DA, United Kingdom, 3:00 PM  
+🚆 **Airport Transfer:** Train from airport to Covent Garden; other options include taxi or rideshare  
+🏨 **Check-In:** Wilde Aparthotels London Covent Garden, 11 ADAM STREET Covent Garden, Westminster Borough, London, WC2R 0DA, United Kingdom, 3:00 PM Check-In  
 🍽️ **Lunch Spot:** Nando's Covent Garden, Afro-Portuguese  
 🍽️ **Dinner Recommendation:** Dishoom Covent Garden, Indian, 7:00 PM Reservation  
 🎭 **Evening Activity:** Free time to walk around Chinatown and/or shop in Covent Garden
@@ -35,15 +35,25 @@
 ---
 
 ## **📌 Day 4: Leave for Paris & Sightseeing**  
-🍽️ **Breakfast:** [Hotel or Café]  
-🛄 **Hotel Check-Out:** [Time & Process]  
-🚖 **Train Station Transfer:** [Departure Transportation Details]  
-🛫 **Train Departure:** [Flight Details, Boarding Time]  
-🛬 **Arrival:** [Flight Details - Airline, Flight Number, Arrival Time]  
-🚖 **Train Station Transfer:** [Car Service or Shuttle Details]  
-🏨 **Check-In:** [Hotel Name, Address, Check-in Time]  
-🍽️ **Dinner Recommendation:** [Restaurant Name, Cuisine, Reservation Details]  
-🎭 **Evening Activity:** [Local Tour, Show, or Free Time]  
+🛄 **Hotel Check-Out:** 11:00 AM Check-Out, Drop off key in the key box in the lobby  
+🚉 **Train Station Transfer:** Taxi  
+🚆 **Train Departure:** Eurostar at 12:24 PM 
+🛬 **Arrival:** Train arrives in **Paris** at 3:57 PM  
+🚉 **Train Station Transfer:** Taxi from Gare du Nord  
+🏨 **Check-In:** My Maison In Paris - Sentier, 6 Rue Saint-Spire, 2nd arr., 75002 Paris, France, 4:00 PM Check-In  
+🚶 **Afternoon Activity:** Go to the second floor of the Eiffel Tower  
+🍽️ **Dinner Recommendation:** Noodle Thérapie Sentier, Chinese 
+🎭 **Evening Activity:** Free Time  
+
+---
+
+## **📌 Day 5: Outlet Shopping & Experiences**  
+🍽️ **Breakfast:** Grab a quick breakfast at Caffè Nero  
+🏛️ **Morning Activity:** Hop On Hop Off Bus Tour  
+🍽️ **Afternoon Tea Spot:** Harrod's, Afternoon Tea, 1:00 PM  
+🚶 **Afternoon Activity:** Hop On Hop Off Bus Tour  
+🍽️ **Dinner Recommendation:** Ave Mario, Italian, 8:30 PM  
+🍹 **Evening Drinks:** The White Lion 
 
 ---
 
