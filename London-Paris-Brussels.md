@@ -19,15 +19,15 @@
 ## **📌 Day 2: Sightseeing & Experiences**  
 🍽️ **Breakfast:** Grab a quick breakfast at Caffè Nero  
 🏛️ **Morning Activity:** Hop On Hop Off Bus Tour  
-🍽️ **Afternoon Tea Spot:** Harrod's, Afternoon Tea, 1:00 PM 
+🍽️ **Afternoon Tea Spot:** Harrod's, Afternoon Tea, 1:00 PM  
 🚶 **Afternoon Activity:** Hop On Hop Off Bus Tour  
-🍽️ **Dinner Recommendation:** Ave Mario, Italian, 8:30 PM 
+🍽️ **Dinner Recommendation:** Ave Mario, Italian, 8:30 PM  
 🍹 **Evening Drinks:** The White Lion 
 
 ---
 
 ## **📌 Day 3: Sightseeing & Experiences**  
-🌅 **Morning Activity:** Borough Market Visit 
+🌅 **Morning Activity:** Borough Market Visit  
 🍽️ **Lunch:** The Shard  
 🚶 **Afternoon Activity:** St. Paul's Cathedral  
 🎉 **Evening Activity:** Seven Dials Market
