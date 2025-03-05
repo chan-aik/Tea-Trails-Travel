@@ -42,18 +42,16 @@
 🚉 **Train Station Transfer:** Taxi from Gare du Nord  
 🏨 **Check-In:** My Maison In Paris - Sentier, 6 Rue Saint-Spire, 2nd arr., 75002 Paris, France, 4:00 PM Check-In  
 🚶 **Afternoon Activity:** Go to the second floor of the Eiffel Tower  
-🍽️ **Dinner Recommendation:** Noodle Thérapie Sentier, Chinese 
+🍽️ **Dinner Recommendation:** Noodle Thérapie Sentier, Chinese  
 🎭 **Evening Activity:** Free Time  
 
 ---
 
 ## **📌 Day 5: Outlet Shopping & Experiences**  
-🍽️ **Breakfast:** Grab a quick breakfast at Caffè Nero  
-🏛️ **Morning Activity:** Hop On Hop Off Bus Tour  
-🍽️ **Afternoon Tea Spot:** Harrod's, Afternoon Tea, 1:00 PM  
-🚶 **Afternoon Activity:** Hop On Hop Off Bus Tour  
-🍽️ **Dinner Recommendation:** Ave Mario, Italian, 8:30 PM  
-🍹 **Evening Drinks:** The White Lion 
+🍽️ **Breakfast:** Grab a quick croissant at Boulangerie du Nil  
+🏛️ **Morning Activity:** Grab train to Serris  
+🚶 **Afternoon Activity:** Shop and eat at La Vallee Village  
+🍹 **Evening Activity:** Train back to Paris and free time 
 
 ---
 
