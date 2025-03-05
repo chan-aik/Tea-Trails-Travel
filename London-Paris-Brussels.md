@@ -19,9 +19,7 @@
 ## **📌 Day 2: Sightseeing & Experiences**  
 🍽️ **Breakfast:** Grab a quick breakfast at Caffè Nero  
 🏛️ **Morning Activity:** Hop On Hop Off Bus Tour  
-
 🍽️ **Afternoon Tea Spot:** Harrod's, Afternoon Tea, 1:00 PM 
-
 🚶 **Afternoon Activity:** Hop On Hop Off Bus Tour  
 🍽️ **Dinner Recommendation:** Ave Mario, Italian, 8:30 PM 
 🍹 **Evening Drinks:** The White Lion 
@@ -30,18 +28,22 @@
 
 ## **📌 Day 3: Sightseeing & Experiences**  
 🌅 **Morning Activity:** Borough Market Visit 
-
 🍽️ **Lunch:** The Shard  
 🚶 **Afternoon Activity:** St. Paul's Cathedral  
 🎉 **Evening Activity:** Seven Dials Market
 
 ---
 
-## **📌 Day 4: Departure**  
+## **📌 Day 4: Leave for Paris & Sightseeing**  
 🍽️ **Breakfast:** [Hotel or Café]  
 🛄 **Hotel Check-Out:** [Time & Process]  
-🚖 **Airport Transfer:** [Departure Transportation Details]  
-🛫 **Flight Departure:** [Flight Details, Boarding Time]  
+🚖 **Train Station Transfer:** [Departure Transportation Details]  
+🛫 **Train Departure:** [Flight Details, Boarding Time]  
+🛬 **Arrival:** [Flight Details - Airline, Flight Number, Arrival Time]  
+🚖 **Train Station Transfer:** [Car Service or Shuttle Details]  
+🏨 **Check-In:** [Hotel Name, Address, Check-in Time]  
+🍽️ **Dinner Recommendation:** [Restaurant Name, Cuisine, Reservation Details]  
+🎭 **Evening Activity:** [Local Tour, Show, or Free Time]  
 
 ---
 
