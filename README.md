@@ -1,4 +1,4 @@
-# 🌍 Tea & Trails Travel Portfolio
+# 🌍 Voyage Concierge Travel Portfolio
 
 ## **✈️ About Me**
 Welcome to my travel portfolio! I am a passionate and detail-oriented travel consultant dedicated to crafting unforgettable experiences for clients. From luxury getaways to budget-friendly adventures, I specialize in seamless trip planning, exclusive deals, and expert travel guidance.
